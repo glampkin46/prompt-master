@@ -1,0 +1,13 @@
+{
+  "name": "prompt-master",
+  "owner": {
+    "name": "glampkin46"
+  },
+  "description": "Prompt Master: rewrite rough prompts into better ones in Claude Code",
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./"
+    }
+  ]
+}
